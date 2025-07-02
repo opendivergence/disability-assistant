@@ -1,0 +1,4 @@
+{
+  "summary": "OSHA protects workers from unsafe work environments, including those related to disability and illness.",
+  "triggers": ["unsafe", "harassment", "retaliation", "mental health"]
+}

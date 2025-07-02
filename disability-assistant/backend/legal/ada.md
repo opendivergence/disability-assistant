@@ -1,0 +1,3 @@
+# Americans with Disabilities Act (ADA)
+
+The ADA protects individuals with disabilities from discrimination in employment, public accommodations, and more...
